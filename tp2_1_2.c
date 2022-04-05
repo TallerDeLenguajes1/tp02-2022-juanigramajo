@@ -6,24 +6,17 @@
 
 int main () {
 
-  int i, vt[N], *pVt;
-
-  pVt = &vt[0];
-
-  printf("\n");
+  int i;
+  int vt[N];
 
   for (i = 0; i < N; i++)
     {
 
-      *pVt = 1 + rand()%100;
+      vt[i] = 1 + rand()%100;
 
-      printf ("%d - ", *pVt);
-
-      pVt++;
+      printf ("%d\n", vt[i]);
 
     }
-
-  printf("\n\n");
 
   return 0;
 }
