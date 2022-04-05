@@ -1,0 +1,11 @@
+
+---- Punto 2 TP2 ----
+
+
+f) ¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+
+No lo puedo ver, porque lo cree en la rama nueva llamada Opcion_2, y al no haber mergeado, cada rama tiene su contenido de trabajo distinto.
+
+
+----------------------------------------------
+Al usar el comando "gitk –all" no puedo notar nada ya que no se abre una pestaña como las capturas de los TP, en clases voy a consultar la función ya que tengo otro SO.
