@@ -1,2 +1,1 @@
-;
-  int 
+masRapida(pArreglo, tama);
